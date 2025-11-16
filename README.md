@@ -13,43 +13,31 @@ To design a Student Enrollment System that allows students to register for cours
 # DIAGRAMS:
 
 # USE CASE DIAGRAM:
-
-
 <img width="1013" height="1009" alt="image" src="https://github.com/user-attachments/assets/32d76702-e7fe-456c-9b50-6e01859dc7e5" />
 
 
 
 # SEQUENCE DIAGRAM:
-
-
 <img width="1055" height="854" alt="image" src="https://github.com/user-attachments/assets/34592672-5419-4e12-be8f-8b51293c8c82" />
 
 
 
 # CLASS DIAGRAM:
-
-
 <img width="952" height="626" alt="image" src="https://github.com/user-attachments/assets/d1ad8c74-31c9-4e68-ad55-c7e8f0b8b7c6" />
 
 
 
 # PACKAGE DIAGRAN:
-
-
 <img width="769" height="393" alt="image" src="https://github.com/user-attachments/assets/9d0ffebc-189a-4375-9dc4-1bf147638923" />
 
 
 
 # ACTIVITY DIAGRAM:
-
-
 <img width="635" height="991" alt="image" src="https://github.com/user-attachments/assets/bb67b291-5c48-4359-abed-c481de37c4ed" />
 
 
 
 # COMMUNICATION DIAGRAM:
-
-
 <img width="885" height="753" alt="image" src="https://github.com/user-attachments/assets/391d932f-cd0f-4891-8a98-7847940a66d0" />
 
 
